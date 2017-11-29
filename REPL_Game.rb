@@ -209,7 +209,7 @@ def the_end
   
   you have #{format_number($my_wallet)} in your wallet 👝 !!! 🎉🎉🎉
   
-  but unfortunately I don't have the money 🙍🏻 soooo...
+  but unfortunately I don't have the money 🙍🏻 soooo....
   
   Goodbay! 🏃🏻‍♀️ "
 end
